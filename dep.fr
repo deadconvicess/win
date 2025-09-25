@@ -1,0 +1,8 @@
+PyPDF2
+requests
+click
+colorama
+nuitka
+numpy
+pyinstaller
+rich
